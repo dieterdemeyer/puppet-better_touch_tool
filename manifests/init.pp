@@ -3,9 +3,9 @@
 #
 # Examples
 #
-#   include better_touch_tools
+#   include better_touch_tool
 #
-class better_touch_tools {
+class better_touch_tool {
 
   package { 'BetterTouchTool-0.9951':
     provider => 'compressed_app',

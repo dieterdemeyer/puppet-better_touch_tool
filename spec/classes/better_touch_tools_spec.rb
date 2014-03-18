@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'better_touch_tools' do
+describe 'better_touch_tool' do
   it do
     should contain_package('BetterTouchTool-0.9951').with({
       :provider => 'compressed_app',
